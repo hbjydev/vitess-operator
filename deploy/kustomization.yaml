@@ -1,3 +1,7 @@
 resources:
-- operator
+- operator.yaml
+- role_binding.yaml
+- role.yaml
+- service_account.yaml
+- priority.yaml
 - crds
