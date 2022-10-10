@@ -1,13 +1,3 @@
 resources:
-- operator.yaml
-- role_binding.yaml
-- role.yaml
-- service_account.yaml
-- priority.yaml
-- crds/planetscale.com_vitessclusters.yaml
-- crds/planetscale.com_vitesscells.yaml
-- crds/planetscale.com_vitesskeyspaces.yaml
-- crds/planetscale.com_vitessshards.yaml
-- crds/planetscale.com_vitessbackups.yaml
-- crds/planetscale.com_vitessbackupstorages.yaml
-- crds/planetscale.com_etcdlockservers.yaml
+- operator
+- crds
