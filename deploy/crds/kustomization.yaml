@@ -1,0 +1,8 @@
+resources:
+  - planetscale.com_etcdlockservers.yaml
+  - planetscale.com_vitessbackups.yaml
+  - planetscale.com_vitessbackupstorages.yaml
+  - planetscale.com_vitesscells.yaml
+  - planetscale.com_vitessclusters.yaml
+  - planetscale.com_vitesskeyspaces.yaml
+  - planetscale.com_vitessshards.yaml
